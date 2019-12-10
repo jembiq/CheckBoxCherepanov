@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxCherepanov</string>
+    <string name="hint_input_money">Input money</string>
+    <string name="hint_input_info">Payment information</string>
+    <string name="btn_OK">OK</string>
+    <string name="ChB_bank_card">By card</string>
+    <string name="ChB_phone">By phone</string>
+    <string name="ChB_cash">By cash to address</string>
+    <string name="toast_message">Transferred %1$s Rub to%n%2$s by %3$s</string>
+</resources>
